@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1648862104 source:c:\users\gonza\desktop\workspace 2022\c4 funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1648862310 c:\users\gonza\desktop\workspace 2022\c4 funciones\biblioteca.h
+

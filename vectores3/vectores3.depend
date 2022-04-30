@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650324165 source:c:\users\gonza\desktop\workspace 2022\vectores3\main.c
+	<stdio.h>
+	<stdlib.h>
+

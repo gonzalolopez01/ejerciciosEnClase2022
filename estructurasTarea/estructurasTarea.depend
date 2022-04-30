@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650943357 source:c:\users\gonza\desktop\workspace 2022\estructurastarea\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650925377 source:c:\users\gonza\desktop\workspace 2022\paralelos1g\main.c
+	<stdio.h>
+	<stdlib.h>
+

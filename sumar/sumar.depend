@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1648862815 source:c:\users\gonza\desktop\workspace 2022\sumar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1648863034 c:\users\gonza\desktop\workspace 2022\sumar\operaciones.h
+
